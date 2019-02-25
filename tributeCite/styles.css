@@ -1,0 +1,19 @@
+.jumbotron{
+    background-color:#BB2C18;
+    background-size:100% 100%;
+    font-family: 'Acme', sans-serif;
+    text-align:center;
+}
+h1{
+    color:black;
+    font-family: 'Acme', sans-serif;
+    
+}
+
+.col-lg-4{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    
+    
+}
